@@ -1,5 +1,5 @@
 # HDBRTS_Management_System
-### Introduction
+### Introduction 
 HDBRTS is a bus transit system which is the first BRTS branch in Karnataka named **"Chigari"**. 
 This system is located between the cities Hubli-Dharwad to help passengers to travel between the cities. 
 In this system there will be different types of buses like 200,201&100 where types have their implicit meaning and there is the capacity for the buses up to which it can take the passengers in. 
